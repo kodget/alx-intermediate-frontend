@@ -1,1 +1,1 @@
-# alx-intermidiate-frontend
+# alx-intermediate-frontend
