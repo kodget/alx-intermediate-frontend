@@ -1,0 +1,10 @@
+@mixin custom-margin {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+body {
+  @include custom-margin;
+}
+div {
+  @include custom-margin;
+}
