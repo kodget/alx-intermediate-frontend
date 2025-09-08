@@ -1,0 +1,7 @@
+How i installed sass.
+
+I installed SASS from my terminal with a few steps.
+a. Installation of node. I installed the latest version of node which is compatible with the v-4 of sass.
+b. Installation of sass in the terminal: Afterwards, i logged in "npm install sass -v 3.7.4 in the terminal.
+
+These are the basic steps of instslling SASS.
